@@ -4,7 +4,7 @@
 > Selected for **ISO/IEC JTC 1/SC 29/WG 4 (MPEG) – Gaussian Splat Coding (GSC) Common Test Conditions**
 
 **Institution:** Sungkyunkwan University (SKKU)  
-**Captured by:** MCSL & Department of Immersive Media Engineering  
+**Captured by:** MCSLab & Department of Immersive Media Engineering  
 **Version:** October 2025  
 **Source:** [Download Dataset](http://gofile.me/6uap5/r5zzOBuMZ)
 
@@ -85,4 +85,4 @@ Additional references for the MPEG standardization context:
 ## 🔗 Related Links
 
 - MPEG WG 4 (Video Coding) — Gaussian Splat Coding (GSC)  
-- MCSL, Sungkyunkwan University — [http://mcsl.skku.edu/](http://mcsl.skku.edu/)  
+- MCSLab, Sungkyunkwan University — [http://mcsl.skku.edu/](http://mcsl.skku.edu/)  
