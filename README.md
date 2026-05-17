@@ -4,7 +4,7 @@
 > Selected for **ISO/IEC JTC 1/SC 29/WG 4 (MPEG) – Gaussian Splat Coding (GSC) Common Test Conditions**
 
 **Institution:** Sungkyunkwan University (SKKU)  
-**Captured by:** MCSLab & Department of Immersive Media Engineering  
+**Captured by:** IMCLab & Department of Immersive Media Engineering  
 **Version:** October 2025  
 **Source:** [Download Dataset](http://gofile.me/6uap5/r5zzOBuMZ)
 
@@ -79,10 +79,18 @@ Additional references for the MPEG standardization context:
 >  
 > **Library Sequence** was officially introduced and adopted as a **representative large-scale scene** for GSC evaluation,  
 > providing coverage of architectural, specular, and outdoor conditions suitable for **Gaussian-based 3D scene coding** experiments.
-
+@inproceedings{koo2026library,
+  author    = {Reagan Koo and Yeong-Gyu Kim and Isaac Yang and Seung Ahn and Eun-Seok Ryu},
+  title     = {Library: A Large-Scale Outdoor Gaussian Splat Reconstruction Dataset},
+  booktitle = {Proceedings of the IEEE Conference on Virtual Reality and 3D User Interfaces Workshops (VRW)},
+  year      = {2026},
+  pages     = {153--156},
+  doi       = {10.1109/VRW70859.2026.00033}
+}
+> https://imclab.skku.edu/MCSL/wp-content/uploads/2026/03/052900a153.pdf
 ---
 
 ## 🔗 Related Links
 
 - MPEG WG 4 (Video Coding) — Gaussian Splat Coding (GSC)  
-- MCSLab, Sungkyunkwan University — [http://mcsl.skku.edu/](http://mcsl.skku.edu/)  
+- MCSLab, Sungkyunkwan University — [http://mcsl.skku.edu/](https://imclab.skku.edu/)  
