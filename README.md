@@ -93,4 +93,4 @@ Additional references for the MPEG standardization context:
 ## 🔗 Related Links
 
 - MPEG WG 4 (Video Coding) — Gaussian Splat Coding (GSC)  
-- IMCLab, Sungkyunkwan University — [http://mcsl.skku.edu/](https://imclab.skku.edu/)  
+- IMCLab, Sungkyunkwan University — [http://imclab.skku.edu/](https://imclab.skku.edu/)  
