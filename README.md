@@ -50,9 +50,11 @@ The dataset replicates **real-world campus-scale environments** with complex **l
 |-----------|-------------|
 | **Capture Device** | DJI Mavic 3 Pro (Tele Lens 166 mm @ f/3.4) |
 | **Altitude** | 50 m / 70 m |
-| **Resolution** | 4K (4096 × 2160) |
+| **Resolution** | 4K and FHD |
 | **Coverage Area** | Approx. 98,000 m² (Library & Courtyard Zone) |
-| **Total Images** | ~173,000 |
+| **4K Dataset** | 4,000 images |
+| **FHD Training Subsets** | 100 / 200 / 400 / 800 / 1,600 images |
+| **FHD Test Set** | 200 common test images (`test_*`) |
 | **Environment** | Outdoor daylight, varying illumination and reflections |
 
 ---
