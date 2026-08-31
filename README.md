@@ -56,14 +56,14 @@ The dataset replicates **real-world campus-scale environments** with complex **l
 
 ## 📦 Dataset Availability
 
-| Dataset | Description | Download |
-|---------|-------------|----------|
-| **4K Dataset** | 4,000 images | [Download](http://gofile.me/6uap5/XBg5YWxcE) |
-| **FHD-100** | 100 training images + 200 common test images | [Download](http://gofile.me/6uap5/o6DXV7DSi) |
-| **FHD-200** | 200 training images + 200 common test images | [Download](http://gofile.me/6uap5/owoVtn7Hh) |
-| **FHD-400** | 400 training images + 200 common test images | [Download](http://gofile.me/6uap5/rOn2X86JY) |
-| **FHD-800** | 800 training images + 200 common test images | [Download](http://gofile.me/6uap5/gDoNc93Rt) |
-| **FHD-1600** | 1,600 training images + 200 common test images | [Download](http://gofile.me/6uap5/l0w1HRQjO) |
+| Dataset | Description | Size | Download |
+|---------|-------------|------|----------|
+| **4K Dataset** | 4,000 images | 40 GB | [Download](http://gofile.me/6uap5/XBg5YWxcE) |
+| **FHD-100** | 100 training images + 200 common test images | 2.67 GB | [Download](http://gofile.me/6uap5/o6DXV7DSi) |
+| **FHD-200** | 200 training images + 200 common test images | 3.58 GB | [Download](http://gofile.me/6uap5/owoVtn7Hh) |
+| **FHD-400** | 400 training images + 200 common test images | 5.43 GB | [Download](http://gofile.me/6uap5/rOn2X86JY) |
+| **FHD-800** | 800 training images + 200 common test images | 9.19 GB | [Download](http://gofile.me/6uap5/gDoNc93Rt) |
+| **FHD-1600** | 1,600 training images + 200 common test images | 17.04 GB | [Download](http://gofile.me/6uap5/l0w1HRQjO) |
 
 > **Note:** In each FHD subset, the 200 common test images are prefixed with `test_` and must be excluded from 3DGS training.
 
