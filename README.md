@@ -44,18 +44,28 @@ The dataset replicates **real-world campus-scale environments** with complex **l
 
 ---
 
-## 📷 Capture Specifications
+## 📷 Capture Setup
 
 | Property | Description |
 |-----------|-------------|
 | **Capture Device** | DJI Mavic 3 Pro (Tele Lens 166 mm @ f/3.4) |
 | **Altitude** | 50 m / 70 m |
-| **Resolution** | 4K and FHD |
 | **Coverage Area** | Approx. 98,000 m² (Library & Courtyard Zone) |
-| **4K Dataset** | 4,000 images |
-| **FHD Training Subsets** | 100 / 200 / 400 / 800 / 1,600 images |
-| **FHD Test Set** | 200 common test images (`test_*`) |
 | **Environment** | Outdoor daylight, varying illumination and reflections |
+
+
+## 📦 Dataset Availability
+
+| Dataset | Description | Download |
+|---------|-------------|----------|
+| **4K Dataset** | 4,000 images | [Download](http://gofile.me/6uap5/XBg5YWxcE) |
+| **FHD-100** | 100 training images + 200 common test images | [Download](http://gofile.me/6uap5/o6DXV7DSi) |
+| **FHD-200** | 200 training images + 200 common test images | [Download](http://gofile.me/6uap5/owoVtn7Hh) |
+| **FHD-400** | 400 training images + 200 common test images | [Download](http://gofile.me/6uap5/rOn2X86JY) |
+| **FHD-800** | 800 training images + 200 common test images | [Download](http://gofile.me/6uap5/gDoNc93Rt) |
+| **FHD-1600** | 1,600 training images + 200 common test images | [Download](http://gofile.me/6uap5/l0w1HRQjO) |
+
+> **Note:** In each FHD subset, the 200 common test images are prefixed with `test_` and must be excluded from 3DGS training.
 
 ---
 
