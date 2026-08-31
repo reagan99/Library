@@ -58,7 +58,7 @@ The dataset replicates **real-world campus-scale environments** with complex **l
 
 | Dataset | Description | Size | Download |
 |---------|-------------|------|----------|
-| **4K Dataset** | 4,000 images | 40 GB | [Download](http://gofile.me/6uap5/XBg5YWxcE) |
+| **4K Dataset** | 4,000 training images | 40 GB | [Download](http://gofile.me/6uap5/XBg5YWxcE) |
 | **FHD-100** | 100 training images + 200 common test images | 2.67 GB | [Download](http://gofile.me/6uap5/o6DXV7DSi) |
 | **FHD-200** | 200 training images + 200 common test images | 3.58 GB | [Download](http://gofile.me/6uap5/owoVtn7Hh) |
 | **FHD-400** | 400 training images + 200 common test images | 5.43 GB | [Download](http://gofile.me/6uap5/rOn2X86JY) |
