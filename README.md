@@ -88,7 +88,9 @@ Additional references for the MPEG standardization context:
 > **ISO/IEC JTC 1/SC 29/WG 4 (MPEG Video Coding Group)**  
 > *Gaussian Splat Coding (GSC) – Common Test Conditions (CTC)*  
 > Contribution: ISO/IEC JTC 1/SC 29/WG 4 m74011, Geneva, October 2025.  
->  
+>
+> Reagan Koo, Young-Gyu Kim, Isaac Yang, Seung-Huk Ahn, Eun-Seok Ryu, “Library: A Large-Scale Outdoor Gaussian Splat Reconstruction Dataset”, IEEE VR 2026 Workshops (VRW) Intelligent Immersive Media Communications(IIMC), Mar 21–25, 2026.
+> 
 > **Library Sequence** was officially introduced and adopted as a **representative large-scale scene** for GSC evaluation,  
 > providing coverage of architectural, specular, and outdoor conditions suitable for **Gaussian-based 3D scene coding** experiments.
 @inproceedings{koo2026library,
